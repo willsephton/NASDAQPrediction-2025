@@ -1,0 +1,41 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Streamlit cache
+.streamlit/
+*.db
+*.sqlite
+
+# Pickle / model files
+*.pickle
+*.pkl
+
+# Virtual environments
+venv/
+env/
+.env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Pytest / coverage
+.coverage
+htmlcov/
+*.cover
+*.py,cover
+.pytest_cache/
+
+# IDE files
+.vscode/
+.idea/
+*.iml
